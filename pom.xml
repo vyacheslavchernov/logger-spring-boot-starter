@@ -13,7 +13,7 @@
 
     <groupId>ru.vych</groupId>
     <artifactId>logger-spring-boot-starter</artifactId>
-    <version>0.0.1-DEV</version>
+    <version>0.0.1-RELEASE</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -50,7 +50,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/vyacheslavchernov/logger-client-spring-boot-starter</url>
+            <url>https://maven.pkg.github.com/vyacheslavchernov/logger-spring-boot-starter</url>
         </repository>
     </distributionManagement>
 
